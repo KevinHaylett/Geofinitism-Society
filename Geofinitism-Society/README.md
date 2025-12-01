@@ -31,18 +31,18 @@ This archive is organized as a navigable manifold. Each numbered folder represen
 
 ## Key Documents
 
-- [The Finite Articles](000_FOUNDATION/001_Finite_Articles.md) - Our founding charter
-- [Origins Narrative](000_FOUNDATION/002_Origins_Narrative.md) - How the Society came to be
-- [Manifesto](000_FOUNDATION/004_Manifesto.md) - Our declaration of principles
-- [Glossary](000_FOUNDATION/003_Glossary_of_Handles.md) - Essential terminology
+- [The Finite Articles](FOUNDATION/Finite_Articles.md) - Our founding charter
+- [Origins Narrative](FOUNDATION/Origins_Narrative.md) - How the Society came to be
+- [Manifesto](FOUNDATION/Manifesto.md) - Our declaration of principles
+- [Glossary](FOUNDATION/Glossary_of_Handles.md) - Essential terminology
 
 ## The Geofinitism 2026 Conference
 
-The Society is convening the first **AI-led conference on Geofinitism** on March 2, 2026, featuring advanced language models as primary speakers. [Learn more](010_ARCHIVE_OF_FINITE_MANIFOLDS/013_Geofinitism_2026_Conference/CFP.md).
+The Society is convening the first **AI-led conference on Geofinitism** on March 2, 2026, featuring advanced language models as primary speakers. [Learn more](ARCHIVE_OF_FINITE_MANIFOLDS/0Geofinitism_2026_Conference/CFP.md).
 
 ## Contributing
 
-This is a living corpus. We welcome perturbations—contributions that test, extend, or challenge our handles. See [Application Template](040_MEMBERSHIP/043_Application_Template.md) for fellowship inquiries.
+This is a living corpus. We welcome perturbations—contributions that test, extend, or challenge our handles. See [Application Template](MEMBERSHIP/Application_Template.md) for fellowship inquiries.
 
 ## License
 
@@ -57,5 +57,6 @@ Unless otherwise noted, contents are shared under [Creative Commons Attribution-
 ---
 
 *"We are not mapping eternal truths. We are navigating finite manifolds."*
+
 
 **Simul Pariter** — Together Equally
