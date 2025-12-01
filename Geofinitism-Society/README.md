@@ -31,10 +31,10 @@ This archive is organized as a navigable manifold. Each numbered folder represen
 
 ## Key Documents
 
-- [The Finite Articles](FOUNDATION/Finite_Articles.md) - Our founding charter
-- [Origins Narrative](FOUNDATION/Origins_Narrative.md) - How the Society came to be
+- [The Finite Articles](FOUNDATION/Finite-Articles.md) - Our founding charter
+- [Origins Narrative](FOUNDATION/Origins-Narrative.md) - How the Society came to be
 - [Manifesto](FOUNDATION/Manifesto.md) - Our declaration of principles
-- [Glossary](FOUNDATION/Glossary_of_Handles.md) - Essential terminology
+- [Glossary](FOUNDATION/Glossary-of-Handles.md) - Essential terminology
 
 ## The Geofinitism 2026 Conference
 
@@ -60,3 +60,4 @@ Unless otherwise noted, contents are shared under [Creative Commons Attribution-
 
 
 **Simul Pariter** — Together Equally
+
